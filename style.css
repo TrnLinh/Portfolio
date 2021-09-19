@@ -228,6 +228,7 @@ html.transition *:after {
 .left-story p {
     font-size: 30px;
     line-height: 1.5;
+    text-align: justify;
     color: var(--black);
 }
 .link-container{
