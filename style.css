@@ -270,6 +270,7 @@ html.transition *:after {
     line-height: 1.3;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: var(--black);
+    text-align: justify;
 }
 .top-bot-grid .right img{
     width: 100%;
